@@ -7,7 +7,7 @@
 
 body {
   background-color: white;
-  margin: 10;
+  margin: 0;
   font-family: 'Nunito Sans', sans-serif;
 }
 
@@ -48,6 +48,35 @@ p {
   margin-right: auto;
   padding: 0;
 }
+.resume-header {
+  grid-column-start: 1;
+  grid-column-end: 4 ;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  background-color: #404040;
+  border-bottom: solid 2px black;
+  display: grid;
+  grid-template-columns: 2fr 3fr 2fr;
+  height: 100%;
+  align-items: center;
+  align-self: center;
+}
+.resume-main {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 5;
+  background-color: white;
+  padding: 10px;
+}
+.resume-side {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 5;
+  background-color: #F1F1F1;
+  padding: 10px;
+}
 
 .section-title {
   text-transform: uppercase;
@@ -63,20 +92,6 @@ p {
 }
 
 /* RESUME HEADER SECTION DESIGN */
-.resume-header {
-  grid-column-start: 1;
-  grid-column-end: 4 ;
-  grid-row-start: 1;
-  grid-row-end: 2;
-  background-color: #404040;
-  border-bottom: solid 2px black;
-  display: grid;
-  grid-template-columns: 2fr 3fr 2fr;
-  height: 100%;
-  align-items: center;
-  align-self: center;
-}
-
 .resume-picture {
   display: flex;
   flex-direction: column;
@@ -146,15 +161,6 @@ p {
 }
 
 /* RESUME MAIN SECTION DESIGN */
-.resume-main {
-  grid-column-start: 1;
-  grid-column-end: 3;
-  grid-row-start: 2;
-  grid-row-end: 5;
-  background-color: white;
-  padding: 10px;
-}
-
 .resume-main-article {
   display: grid;
   grid-template-columns: 1fr 3fr;
@@ -179,7 +185,6 @@ p {
 .item-title {
   margin: 0;
   color: #404040;
-  text-transform: capitalize;
 }
 
 .item-description {
@@ -188,15 +193,6 @@ p {
 }
 
 /* RESUME SIDE SECTION DESIGN */
-.resume-side {
-  grid-column-start: 3;
-  grid-column-end: 4;
-  grid-row-start: 2;
-  grid-row-end: 5;
-  background-color: #F1F1F1;
-  padding: 10px;
-}
-
 .lang-level {
   width: 100%;
 }

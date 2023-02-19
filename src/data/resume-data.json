@@ -39,7 +39,7 @@
       "Leadership",
       "Business Strategy",
       "Team Partner",
-      "Service Mainset"
+      "Service Mindset"
     ],
     "languajes": [
       {
@@ -47,7 +47,7 @@
         "level": "5"
       },
       {
-        "title": "Englihs",
+        "title": "English",
         "level": "3"
       }
     ],
@@ -119,70 +119,60 @@
     "education": [
       {
         "institute": {
-          "name": "UNTreF Virtual",
-          "start": 2019,
-          "end": 0
+          "name": "UNTreF"
         },
         "courses": [
           {
-            "title": "Licenciatura Administración y gestión de empresas",
-            "start": "",
-            "end": "" 
+            "title": "Licenciatura Administración y Gestión de Empresas",
+            "start": 2019,
+            "end": 0 
           }
         ]
       },
       {
         "institute": {
-          "name": "Coderhouse",
-          "start": 2021,
-          "end": 2022
+          "name": "Coderhouse"
         },
         "courses": [
-          {
-            "title": "ReactJS Programming",
-            "start": 2021,
-            "end": 2021 
-          },
           {
             "title": "Backend Programming",
-            "start": 2022,
-            "end": 2022 
+            "start": 0,
+            "end": 2023 
+          },
+          {
+            "title": "ReactJS Programming",
+            "start": 0,
+            "end": 2021 
           }
         ]
       },
       {
         "institute": {
-          "name": "Codo a Codo",
-          "start": 2022,
-          "end": 2022
+          "name": "Codo a Codo"
         },
         "courses": [
           {
             "title": "Full Stack Javascript & NodeJS",
-            "start": 2022,
+            "start": 0,
             "end": 2022 
           }
         ]
       },
       {
         "institute": {
-          "name": "Universidad Torcuato Di Tella",
-          "start": 2021,
-          "end": 2021
+          "name": "Di Tella"
         },
         "courses": [
           {
             "title": "Project Management",
-            "start": 2021,
+            "start": 0,
             "end": 2021 
           }
         ]
       }, 
       {
         "institute": {
-          "name": "ETU No 5",
-          "start": 1998,
-          "end": 2002
+          "name": "ETU No 5"
         },
         "courses": [
           {
