@@ -1,0 +1,6 @@
+article
+  h2.section-title Tech Skills
+  each technology in data.en.technologies
+    .lang-level
+      p #{technology.title}
+      progress(value=`${technology.level}` max='5')

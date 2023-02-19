@@ -4,7 +4,7 @@ import { router } from './routers/app.router';
 
 export const app = express();
 
-app.use('/assets', express.static('public'))
+app.use('/assets', express.static(path.join(__dirname, './public')))
 app.use(express.urlencoded({ extended: true }))
 
 app.set('view engine','pug');

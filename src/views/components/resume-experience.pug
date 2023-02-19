@@ -1,0 +1,14 @@
+h2.section-title Work Experience
+article.resume-main-article
+  each experience in data.en.experience
+    .left-title
+      h3 #{experience.company.name}
+      p.item-date #{experience.company.start} - #{experience.company.end}
+      //- TODO: Create a component to correctly former de dates.
+    .right-title
+      each job in experience.jobs
+        div
+          h4.item-title #{job.title}
+          if job.start != 0
+            p.item-date #{job.start} - #{job.end}
+          p.item-description #{job.description}

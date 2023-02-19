@@ -1,13 +1,15 @@
 {
   "name": "Jorge Claudio",
   "lastname": "Pauvels",
+  "shotdescription": "Programming | Engineering | Projects",
+  "pictureurl": "/assets/img/foto_jorge_v2-square.jpg",
   "email": "jpauvels@hotmail.com",
   "phone": "+541134634296",
   "city": "Buenos Aires",
   "country": "Argentina",
   "en": {
     "sumary": "Dynamic, proactive and responsible leader. High learning capacity, committed and aligned to the company's objectives. Solid experience in research, development and manufacture of new products, excellent experience in coordinating teams.",
-    "programming-languajes":[
+    "technologies":[
       {
         "title": "Javascript",
         "level": 5
@@ -21,15 +23,23 @@
         "level": 5
       },
       {
-        "title": "Yamel",
-        "level": 5
+        "title": "Docker",
+        "level": 4
+      },
+      {
+        "title": "Typescript",
+        "level": 3
+      },
+      {
+        "title": "PHP",
+        "level": 4
       }
     ],
     "skills": [
       "Leadership",
       "Business Strategy",
-      "Coding",
-      "Desingn"
+      "Team Partner",
+      "Service Mainset"
     ],
     "languajes": [
       {
@@ -93,8 +103,8 @@
       {
         "company": {
           "name": "J&S Electronics",
-          "start": "042003",
-          "end": "072004"
+          "start": "04-2003",
+          "end": "07-2004"
         },
         "jobs": [
           {
@@ -109,7 +119,9 @@
     "education": [
       {
         "institute": {
-          "name": "UNTreF Virtual"
+          "name": "UNTreF Virtual",
+          "start": 2019,
+          "end": 0
         },
         "courses": [
           {
@@ -121,7 +133,9 @@
       },
       {
         "institute": {
-          "name": "Coderhouse"
+          "name": "Coderhouse",
+          "start": 2021,
+          "end": 2022
         },
         "courses": [
           {
@@ -138,7 +152,9 @@
       },
       {
         "institute": {
-          "name": "Codo a Codo"
+          "name": "Codo a Codo",
+          "start": 2022,
+          "end": 2022
         },
         "courses": [
           {
@@ -150,7 +166,9 @@
       },
       {
         "institute": {
-          "name": "Universidad Torcuato Di Tella"
+          "name": "Universidad Torcuato Di Tella",
+          "start": 2021,
+          "end": 2021
         },
         "courses": [
           {
@@ -162,7 +180,9 @@
       }, 
       {
         "institute": {
-          "name": "ETU No 5"
+          "name": "ETU No 5",
+          "start": 1998,
+          "end": 2002
         },
         "courses": [
           {

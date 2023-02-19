@@ -1,0 +1,14 @@
+h2.section-title Education
+article.resume-main-article
+  each education in data.en.education
+    .left-title
+      h3 #{education.institute.name}
+      p.item-date #{education.institute.start} - #{education.institute.end}
+      //- TODO: Create a component to correctly former de dates.
+    .right-title
+      each course in education.courses
+        div
+          h4.item-title #{course.title}
+          if course.start != 0
+            p.item-date #{course.start} - #{course.end}
+          p.item-description #{course.description}
