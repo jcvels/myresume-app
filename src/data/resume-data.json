@@ -1,0 +1,182 @@
+{
+  "name": "Jorge Claudio",
+  "lastname": "Pauvels",
+  "email": "jpauvels@hotmail.com",
+  "phone": "+541134634296",
+  "city": "Buenos Aires",
+  "country": "Argentina",
+  "en": {
+    "sumary": "Dynamic, proactive and responsible leader. High learning capacity, committed and aligned to the company's objectives. Solid experience in research, development and manufacture of new products, excellent experience in coordinating teams.",
+    "programming-languajes":[
+      {
+        "title": "Javascript",
+        "level": 5
+      },
+      {
+        "title": "ReactJS",
+        "level": 4
+      },
+      {
+        "title": "NodeJS",
+        "level": 5
+      },
+      {
+        "title": "Yamel",
+        "level": 5
+      }
+    ],
+    "skills": [
+      "Leadership",
+      "Business Strategy",
+      "Coding",
+      "Desingn"
+    ],
+    "languajes": [
+      {
+        "title": "Spanish",
+        "level": "5"
+      },
+      {
+        "title": "Englihs",
+        "level": "3"
+      }
+    ],
+    "interesting": [
+      "Planes and Aviation Industry",
+      "Clean Technology",
+      "Trains",
+      "Environmental Protection"
+    ],
+    "experience": [
+      {
+        "company": {
+          "name": "UVCoding",
+          "start": "10-2018",
+          "end": 0
+        },
+        "jobs": [
+          {
+            "title": "Founder & Full Stack Engineer",
+            "start": 0,
+            "end": 0,
+            "description": "Full Stack Engineer: MongoDB, ExpressJS, ReactJS NodeJS. Cloud Services administration. Project Management"
+          }
+        ]
+      },
+      {
+        "company": {
+          "name": "Newsan S.A.",
+          "start": "07-2004",
+          "end": 0
+        },
+        "jobs": [
+          {
+            "title": "Head of Engineering",
+            "start": "05-2015",
+            "end": 0,
+            "description": "Leader of the technological products development, deployment, and testing team. IT Products development and homologation: Notebooks, Tablet, Mobile Phones, Smartwatches, Readers, and Action-Cams. Development, deployment and management of automation, administration, and testing solutions over MERN stack. Infrastructure and services administration: Docker, Linux Cloud Servers, Windows Servers y NGINX."
+          },
+          {
+            "title": "Technical Engineering Analyst (IT)",
+            "start": "02-2010",
+            "end": "05-2015",
+            "description": "Member of IT product development team, focus on notebooks and manufacturing testing programming. Product testing. Leader of 'Conectar Igualdad' tender project."
+          },
+          {
+            "title": "Technical Engineering Analyst (Audio)",
+            "start": "07-2004",
+            "end": "02-2010",
+            "description": "Member of Audio product development team, focus on high power products."
+          }
+        ]
+      },
+      {
+        "company": {
+          "name": "J&S Electronics",
+          "start": "042003",
+          "end": "072004"
+        },
+        "jobs": [
+          {
+            "title": "Technician",
+            "start": 0,
+            "end": 0,
+            "description": "Audio, Electronics and Office PC equipment repair."
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institute": {
+          "name": "UNTreF Virtual"
+        },
+        "courses": [
+          {
+            "title": "Licenciatura Administración y gestión de empresas",
+            "start": "",
+            "end": "" 
+          }
+        ]
+      },
+      {
+        "institute": {
+          "name": "Coderhouse"
+        },
+        "courses": [
+          {
+            "title": "ReactJS Programming",
+            "start": 2021,
+            "end": 2021 
+          },
+          {
+            "title": "Backend Programming",
+            "start": 2022,
+            "end": 2022 
+          }
+        ]
+      },
+      {
+        "institute": {
+          "name": "Codo a Codo"
+        },
+        "courses": [
+          {
+            "title": "Full Stack Javascript & NodeJS",
+            "start": 2022,
+            "end": 2022 
+          }
+        ]
+      },
+      {
+        "institute": {
+          "name": "Universidad Torcuato Di Tella"
+        },
+        "courses": [
+          {
+            "title": "Project Management",
+            "start": 2021,
+            "end": 2021 
+          }
+        ]
+      }, 
+      {
+        "institute": {
+          "name": "ETU No 5"
+        },
+        "courses": [
+          {
+            "title": "Electronic Technician",
+            "start": 1998,
+            "end": 2002 
+          },
+          {
+            "title": "Goods and Services production Bachelor",
+            "start": 1998,
+            "end": 2002 
+          }
+        ]
+      }
+    ]
+  }
+}
