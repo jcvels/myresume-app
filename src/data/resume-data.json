@@ -61,8 +61,8 @@
       {
         "company": {
           "name": "UVCoding",
-          "start": "10-2018",
-          "end": 0
+          "start": "August 2018",
+          "end": "Today"
         },
         "jobs": [
           {
@@ -76,26 +76,26 @@
       {
         "company": {
           "name": "Newsan S.A.",
-          "start": "07-2004",
-          "end": 0
+          "start": "July 2004",
+          "end": "Today"
         },
         "jobs": [
           {
             "title": "Head of Engineering",
-            "start": "05-2015",
-            "end": 0,
+            "start": "May 2015",
+            "end": "Today",
             "description": "Leader of the technological products development, deployment, and testing team. IT Products development and homologation: Notebooks, Tablet, Mobile Phones, Smartwatches, Readers, and Action-Cams. Development, deployment and management of automation, administration, and testing solutions over MERN stack. Infrastructure and services administration: Docker, Linux Cloud Servers, Windows Servers y NGINX."
           },
           {
             "title": "Technical Engineering Analyst (IT)",
-            "start": "02-2010",
-            "end": "05-2015",
+            "start": "February 2010",
+            "end": "May 2015",
             "description": "Member of IT product development team, focus on notebooks and manufacturing testing programming. Product testing. Leader of 'Conectar Igualdad' tender project."
           },
           {
             "title": "Technical Engineering Analyst (Audio)",
-            "start": "07-2004",
-            "end": "02-2010",
+            "start": "July 2004",
+            "end": "February 2010",
             "description": "Member of Audio product development team, focus on high power products."
           }
         ]
@@ -103,8 +103,8 @@
       {
         "company": {
           "name": "J&S Electronics",
-          "start": "04-2003",
-          "end": "07-2004"
+          "start": "April 2003",
+          "end": "July 2004"
         },
         "jobs": [
           {

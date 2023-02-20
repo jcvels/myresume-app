@@ -1,11 +1,11 @@
 mixin date-former(start,end)
   p.item-date
     if start != 0
-      | #{start} - 
+      | #{start} 
       if end != 0
-        | #{end}
+        | - #{end}
       else
-        | Today
+        | - Today
     else
       if end != 0
         | #{end}
