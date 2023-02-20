@@ -2,9 +2,9 @@
   "name": "myresume-app",
   "version": "1.0.0",
   "description": "Online Resume",
-  "main": "src/create-resume.ts",
+  "main": "src/create-resume.js",
   "scripts": {
-    "start": "ts-node-dev ."
+    "start": "node ."
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jcvels/myresume-app#readme",
   "dependencies": {
+    "pdf-node": "1.0.1",
     "pug": "3.0.2"
   }
 }
