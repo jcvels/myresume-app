@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/jcvels/myresume-app#readme",
   "dependencies": {
-    "pdf-node": "1.0.1",
     "pug": "3.0.2"
   }
 }
